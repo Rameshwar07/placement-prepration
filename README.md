@@ -30,3 +30,27 @@
 28) differnce between git reset, restore, revert.  
 29) what is quality gate in sonarqube.  
 30) How would you monitor kubernetes in Datadog.  # placement-prepration
+
+
+## YARDI Interview Questions:-  
+
+1) What is IAM
+2) What is VPC
+3) Route53 - what is A record
+4) What is Docker and its component
+5) What is Kubernetes, pod vs containers,k8s component
+6) What is CI/CD
+7) What is Version control
+8) Difference between monolythic and microservicess
+9) Differnece between statefulset and replcaset
+10) Horizontal and vertical scale
+11) lsblk command
+12) daily work in project
+13) Domain controller
+14) HTTP,HTTPS,FTP,SFTP port number
+15) run level linux
+16) add users in existing group
+17) What is subnet
+18) Differnce between systemctl and init
+19) can we connect VPC in 2 different location and how ?
+20) can they share same IP address ?
