@@ -1,4 +1,4 @@
-## mock interview questions
+## Mock interview questions
 
 1) How to search files in linux last modified in 2 days  
 2) What is permission needed to delete particular file in linux  
