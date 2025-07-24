@@ -29,4 +29,4 @@ Your Jenkins seaver has been threashed How wowd you recover it.
 What is the gil-webhooks.  
 differnce between git reset, restore, revert.  
 what is quality gate in sonarqube.  
-How would you monitor kubernetes in Datadog.  
+How would you monitor kubernetes in Datadog.  # placement-prepration
