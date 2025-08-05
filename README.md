@@ -29,7 +29,7 @@
 27) What is the gil-webhooks.  
 28) differnce between git reset, restore, revert.  
 29) what is quality gate in sonarqube.  
-30) How would you monitor kubernetes in Datadog.  # placement-prepration
+30) How would you monitor kubernetes in Datadog.
 
 
 ## YARDI Interview Questions:-  
