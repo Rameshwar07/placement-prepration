@@ -2,7 +2,7 @@
 
 1) How to search files in linux last modified in 2 days  
 2) What is permission needed to delete particular file in linux  
-3) /etc/sudorse file purpose.  
+3) /etc/sudoers file purpose.  
 4) Zombie process in linux.  
 5) How to see status of systemd in linux.  
 6) You want to only allow https & http traffic to your instance & block all other traffic how you will do.    
